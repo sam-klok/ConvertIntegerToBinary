@@ -4,7 +4,6 @@ C:\Users\SKlok\source\repos\ConvertIntegerToBinary\ConvertIntegerToBinary\bin\De
 C:\Users\SKlok\source\repos\ConvertIntegerToBinary\ConvertIntegerToBinary\bin\Debug\netcoreapp3.1\ConvertIntegerToBinary.runtimeconfig.dev.json
 C:\Users\SKlok\source\repos\ConvertIntegerToBinary\ConvertIntegerToBinary\bin\Debug\netcoreapp3.1\ConvertIntegerToBinary.dll
 C:\Users\SKlok\source\repos\ConvertIntegerToBinary\ConvertIntegerToBinary\bin\Debug\netcoreapp3.1\ConvertIntegerToBinary.pdb
-C:\Users\SKlok\source\repos\ConvertIntegerToBinary\ConvertIntegerToBinary\obj\Debug\netcoreapp3.1\ConvertIntegerToBinary.csprojAssemblyReference.cache
 C:\Users\SKlok\source\repos\ConvertIntegerToBinary\ConvertIntegerToBinary\obj\Debug\netcoreapp3.1\ConvertIntegerToBinary.AssemblyInfoInputs.cache
 C:\Users\SKlok\source\repos\ConvertIntegerToBinary\ConvertIntegerToBinary\obj\Debug\netcoreapp3.1\ConvertIntegerToBinary.AssemblyInfo.cs
 C:\Users\SKlok\source\repos\ConvertIntegerToBinary\ConvertIntegerToBinary\obj\Debug\netcoreapp3.1\ConvertIntegerToBinary.csproj.CoreCompileInputs.cache

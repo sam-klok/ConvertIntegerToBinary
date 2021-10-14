@@ -3,3 +3,7 @@
 ################################################################################
 
 /XUnitTestProject1/obj
+/XUnitTestProject1/bin/Debug/netcoreapp3.1
+/.vs/ConvertIntegerToBinary/v16/TestStore/0
+/ConvertIntegerToBinary/bin
+/ConvertIntegerToBinary/obj

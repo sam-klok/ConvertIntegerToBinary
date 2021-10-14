@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace ConvertIntegerToBinary
 {
-    class Program
+    public class Program
     {
         static void Main()
         {
@@ -35,7 +35,7 @@ namespace ConvertIntegerToBinary
         }
 
 
-        static int MaxCountOf1(string s)
+        public static int MaxCountOf1(string s)
         {
             int max = 0;
             int tempMax = 0;
@@ -50,14 +50,25 @@ namespace ConvertIntegerToBinary
 
                 if (tempMax > max)
                     max = tempMax;
-                
+
                 tempMax = 0;
             }
 
             if (tempMax > max)
                 max = tempMax;
 
- 
+
+            return max;
+        }
+
+        
+        public static int MaxCountOf1Linq(string s)
+        {
+            //it's binary 0 and 1, so let's splipt by 0
+
+            var max = s.Split('0') 
+                .Max(x => x.Length);
+
             return max;
         }
 
